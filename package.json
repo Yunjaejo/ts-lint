@@ -1,0 +1,29 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "깃 토큰이 말썽이다. 웹스톰으로 바꿨더니 왜 다시 토큰인증을 받을까?!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/**/*.ts",
+    "lint:fix": "eslint --fix src/**/*.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yunjaejo/typescript-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yunjaejo/typescript-study/issues"
+  },
+  "homepage": "https://github.com/Yunjaejo/typescript-study#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.3.1",
+    "@typescript-eslint/parser": "^5.3.1",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "typescript": "^4.4.4"
+  }
+}
