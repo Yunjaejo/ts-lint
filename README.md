@@ -22,7 +22,9 @@ $ npm i -D @typescript-eslint/eslint-plugin @typescript-eslint/parser
 ```
 
 eslint-config-prettier? Prettier와 충돌할 설정들을 비활성화 <br>
-eslint-plugin-prettier? 코드 포맷할 때 Prettier를 사용하게 만드는 규칙 추가
+eslint-plugin-prettier? 코드 포맷할 때 Prettier를 사용하게 만드는 규칙 추가 <br>
+
+필요할 때 다운받도록 하자.
 
 프로젝트 최상위에 .eslintrc.js 파일을 만들고 이를 추가해준다.
 ```js
