@@ -21,8 +21,7 @@ $ npm i -D eslint eslint-config-airbnb-base eslint-plugin-import
 $ npm i -D @typescript-eslint/eslint-plugin @typescript-eslint/parser
 ```
 
---save-exact? 버전이 달라지면서 생길 스타일 변화를 막아줌.
-eslint-config-prettier? Prettier와 충돌할 설정들을 비활성화
+eslint-config-prettier? Prettier와 충돌할 설정들을 비활성화 <br>
 eslint-plugin-prettier? 코드 포맷할 때 Prettier를 사용하게 만드는 규칙 추가
 
 프로젝트 최상위에 .eslintrc.js 파일을 만들고 이를 추가해준다.
