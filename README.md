@@ -66,4 +66,4 @@ $ npm run lint:fix # eslint --fix실행, 오류를 리포맷해줌
 
 즉 lint는 패시브니까 lint:fix로 한번에 모든것을 잡자.
 
-vs코드에서는 es린트 익스텐션을 깔아서 에러를 시각화할 수 있다.
+VSCODE에서는 eslint 익스텐션을 깔아서 에러를 시각화할 수 있다.
